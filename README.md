@@ -5,7 +5,11 @@
 ## Files  
 ```  
 .
-└── tree
+├── README.md
+├── format_string.py
+└── rich_test.py
+
+0 directory, 3 files
 ```  
 
 ## Environment
